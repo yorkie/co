@@ -9,6 +9,9 @@
     "coro",
     "coroutine"
   ],
+  "dependencies": {
+    "harmony-required": "0.0.2"
+  },
   "devDependencies": {
     "should": "~1.2.2",
     "mocha": "~1.12.0",
