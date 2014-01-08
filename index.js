@@ -1,3 +1,5 @@
+require('harmony-required')();
+
 /**
  * toString() reference.
  */
